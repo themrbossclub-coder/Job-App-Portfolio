@@ -120,18 +120,7 @@ Contributions are welcome!
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-## 💬 Contact
-
-For any inquiries or support, feel free to reach out.
-
----
 
 ⭐ Don’t forget to star this repository if you like the project!
