@@ -1,4 +1,4 @@
-# JobStall 🚀
+# JobApp 🚀
 
 A modern job listing and recruitment mobile application built with **Flutter**. JobStall connects job seekers with employers, making it easy to discover opportunities and manage applications on the go.
 
